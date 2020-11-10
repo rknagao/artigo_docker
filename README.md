@@ -1,4 +1,4 @@
-# artigo_docker
-Projeto Streamlit de exemplo colocado em produção com o Docker e Heroku.
+# Artigo Docker
+Repositório do projeto Streamlit utilizado para exemplificar o deployment via Docker e Heroku.
 
 Esse exemplo é utilizado no artigo (xxx).
